@@ -1,6 +1,6 @@
 ###React Timer Application
 
-###**[Live Demo (coming soon on gh-pages)](#)**
+###**[Live Demo](https://bmorelli25.github.io/ReactTimer/)**
 
 -------------
 
